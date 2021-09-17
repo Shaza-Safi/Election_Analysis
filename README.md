@@ -1,15 +1,16 @@
 # Election_Analysis
 
 ## Overview of Election Audit:
-###Overview and Purpose of Project:
+### Overview and Purpose of Project:
 In this project We will help Tom who is a Colorado Board of Elections employee to perform an election audit on the tabulated results of US Congressional precinct in Colorado.
 
-###Source of Data (Election Votes Cast)
-There are three primary voting methods that will be taken into account in the audit.
-1- Mail-in Ballots
-2- Punch Cards
-3- Direct Recording Electronic
-The vots cast by these three methods will determine the final election results.
+### Source of Data 
+There are three primary voting methods that were taken into account in the audit.
+- Mail-in Ballots
+- Punch Cards
+- Direct Recording Electronic
+
+The votes cast by these three methods were used to determine the final election results.
 
 ## Election Audit Results:
 
@@ -34,8 +35,9 @@ Denver is the county with largest number of votes.
 
 After running the Python script results will be immediatly printed into a text file as follows: 
 
+
 ## Election Audit Summary:
-After looking at the outcomes of the election audit and how using Python to pull and process data to give reliable outcomes in a tabulated form i must say it is a very efficient, relaiable and defintely recommendable tool to be used for analysis. I must also say that we can use this script in other election audits with two recommended modifications as follows:
-1- Results to show the candidate with the most votes in each county.
-2- Consolidate the print command to have both the candidate and the county.
+After looking at the outcomes of the election audit and how using Python to pull and process data to give reliable outcomes in a tabulated form i must say it is a very efficient, reliable and defintely recommendable tool to be used for analysis. I must also say that we can use this script in other election audits with two recommended modifications as follows:
+- Results to show the candidate with the most votes in each county. I would creat a new variable for candidates of each county and do a loop on it.
+- Consolidate the print command to have both the candidate and the county and edit the script accordingly.
 
