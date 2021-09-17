@@ -6,9 +6,9 @@ In this project We will help Tom who is a Colorado Board of Elections employee t
 
 ### Source of Data 
 There are three primary voting methods that were taken into account in the audit.
-1- Mail-in Ballots
-2- Punch Cards
-3- Direct Recording Electronic
+- Mail-in Ballots
+- Punch Cards
+- Direct Recording Electronic
 The votes cast by these three methods were used to determine the final election results.
 
 ## Election Audit Results:
