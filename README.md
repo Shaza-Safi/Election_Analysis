@@ -9,6 +9,7 @@ There are three primary voting methods that were taken into account in the audit
 - Mail-in Ballots
 - Punch Cards
 - Direct Recording Electronic
+
 The votes cast by these three methods were used to determine the final election results.
 
 ## Election Audit Results:
@@ -36,7 +37,7 @@ After running the Python script results will be immediatly printed into a text f
 
 
 ## Election Audit Summary:
-After looking at the outcomes of the election audit and how using Python to pull and process data to give reliable outcomes in a tabulated form i must say it is a very efficient, relaiable and defintely recommendable tool to be used for analysis. I must also say that we can use this script in other election audits with two recommended modifications as follows:
+After looking at the outcomes of the election audit and how using Python to pull and process data to give reliable outcomes in a tabulated form i must say it is a very efficient, reliable and defintely recommendable tool to be used for analysis. I must also say that we can use this script in other election audits with two recommended modifications as follows:
 - Results to show the candidate with the most votes in each county. I would creat a new variable for candidates of each county and do a loop on it.
 - Consolidate the print command to have both the candidate and the county and edit the script accordingly.
 
