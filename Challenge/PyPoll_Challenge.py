@@ -94,12 +94,6 @@ with open(file_to_save, "w") as txt_file:
     txt_file.write(election_results)
 
     # 6a: Write a for loop to get the county from the county dictionary.
-    #with open(file_to_load) as election_data:
-     #   reader = csv.reader(election_data, delimiter = ",")
-
-        # Read the header
-      #  header = next(reader)
-    
     for county_name in county_votes:
         #county_votes = county_votes + 1
         #county_name = row[1]    
@@ -149,7 +143,7 @@ with open(file_to_save, "w") as txt_file:
         # Print each candidate's voter count and percentage to the
         # terminal.
         print(candidate_results)
-        #  Save the candidate results to our text file.
+        # Save the candidate results to our text file.
         txt_file.write(candidate_results)
 
         # Determine winning vote count, winning percentage, and candidate.
