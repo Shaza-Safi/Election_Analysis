@@ -35,6 +35,7 @@ Denver is the county with largest number of votes.
 
 After running the Python script results will be immediatly printed into a text file as follows: 
 
+![Capture28.PNG](https://github.com/Shaza-Safi/Election_Analysis/blob/main/Other_Materials/Capture28.PNG)
 
 ## Election Audit Summary:
 After looking at the outcomes of the election audit and how using Python to pull and process data to give reliable outcomes in a tabulated form i must say it is a very efficient, reliable and defintely recommendable tool to be used for analysis. I must also say that we can use this script in other election audits with two recommended modifications as follows:
